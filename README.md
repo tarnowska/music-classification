@@ -8,3 +8,7 @@ Pre-requisites for using pyAudioAnalysis can be found under: https://github.com/
 The program extracts features as described in https://github.com/tyiannak/pyAudioAnalysis/wiki/3.-Feature-Extraction
 
 ![Architecture](/mer.png)
+
+2020
+Katarzyna Anna Tarnowska
+ALL RIGHTS RESERVED
